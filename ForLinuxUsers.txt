@@ -1,0 +1,6 @@
+Hello Linux community to run your format of the game run the following commands.
+
+chmod +x Linux.sh
+./Linux.sh
+
+In the folder.
